@@ -1,0 +1,37 @@
+
+
+.donators{
+    display: flex;
+    margin: 10px;
+    text-align: center;
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.donator{
+    border-radius: 25px;
+    margin: 4px;
+    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 45%;
+    width: 33%;
+}
+.name{
+font-size: 30px;
+font-weight: 600;
+margin-top: 70px;
+background-color: #08AA6E;
+padding: 3px;
+}
+span{
+    font-weight: 550;
+}
+.phone{
+    margin-top: 60px;
+    font-size: 20px;
+    font-weight: 450;
+}
+.city{
+    font-size: 20px;
+    font-weight: 450;
+}
